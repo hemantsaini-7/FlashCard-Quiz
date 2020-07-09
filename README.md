@@ -11,4 +11,4 @@
 - Clear all cards from local storage
 
 ## Skills Specification
-### Javascript, CSS effects, Local Storage
+#### `Javascript` `CSS effects`  `Local Storage`
